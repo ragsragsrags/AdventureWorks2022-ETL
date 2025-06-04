@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo 
+			GeneratedBy="RUEL_RAGPA\ruel_" 
+			GeneratedFromPackageName="AdventureworksDW2022ETL" 
+			GeneratedFromPackageID="{BA6FFF65-825C-4F51-AEE8-709D1CC1F715}" 
+			GeneratedDate="5/19/2025 12:02:05 AM"/>
+	</DTSConfigurationHeading>
+	<Configuration 
+		ConfiguredType="Property" 
+		Path="\Package.Variables[User::EndYear].Properties[Value]" 
+		ValueType="Int32">
+		<ConfiguredValue>2014</ConfiguredValue>
+	</Configuration>
+	<Configuration 
+		ConfiguredType="Property" 
+		Path="\Package.Variables[User::StartYear].Properties[Value]" 
+		ValueType="Int32">
+		<ConfiguredValue>2005</ConfiguredValue>
+</Configuration>
+</DTSConfiguration>
